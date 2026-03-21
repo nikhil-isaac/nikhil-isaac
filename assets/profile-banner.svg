@@ -1,0 +1,127 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Psalm 118:23 profile banner</title>
+  <desc id="desc">A bright blue sky with sun rays, clouds, mountains, a lake, and the verse This came about from the Lord. It is marvelous in our eyes. — Psalm 118:23 NASB —</desc>
+
+  <defs>
+    <linearGradient id="sky" x1="640" y1="0" x2="640" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1846D9"/>
+      <stop offset="0.45" stop-color="#3B7CFF"/>
+      <stop offset="1" stop-color="#A9D8FF"/>
+    </linearGradient>
+    <linearGradient id="water" x1="640" y1="420" x2="640" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7FC8FF"/>
+      <stop offset="1" stop-color="#2E78B7"/>
+    </linearGradient>
+    <linearGradient id="mountainsBack" x1="640" y1="310" x2="640" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9AB7E5"/>
+      <stop offset="1" stop-color="#5274AB"/>
+    </linearGradient>
+    <linearGradient id="mountainsFront" x1="640" y1="340" x2="640" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#88B96E"/>
+      <stop offset="1" stop-color="#305F37"/>
+    </linearGradient>
+    <radialGradient id="sunGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(135 165) rotate(40) scale(290 290)">
+      <stop stop-color="white" stop-opacity="0.95"/>
+      <stop offset="0.35" stop-color="white" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur20" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#5A6C9C" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#sky)"/>
+  <ellipse cx="135" cy="165" rx="290" ry="290" fill="url(#sunGlow)"/>
+
+  <g opacity="0.32">
+    <path d="M15 145L120 640" stroke="white" stroke-width="26"/>
+    <path d="M55 110L185 640" stroke="white" stroke-width="20"/>
+    <path d="M95 85L260 640" stroke="white" stroke-width="16"/>
+    <path d="M0 205L85 640" stroke="white" stroke-width="18"/>
+  </g>
+
+  <g fill="white" opacity="0.92" filter="url(#blur20)">
+    <ellipse cx="146" cy="328" rx="126" ry="34"/>
+    <ellipse cx="312" cy="374" rx="110" ry="28"/>
+    <ellipse cx="532" cy="352" rx="160" ry="32"/>
+    <ellipse cx="802" cy="336" rx="132" ry="30"/>
+    <ellipse cx="1086" cy="310" rx="156" ry="38"/>
+    <ellipse cx="1210" cy="276" rx="82" ry="26"/>
+  </g>
+
+  <g fill="#FDF7F0" opacity="0.96">
+    <ellipse cx="108" cy="324" rx="85" ry="22"/>
+    <ellipse cx="171" cy="315" rx="52" ry="18"/>
+    <ellipse cx="267" cy="376" rx="68" ry="20"/>
+    <ellipse cx="340" cy="367" rx="49" ry="16"/>
+    <ellipse cx="493" cy="353" rx="84" ry="20"/>
+    <ellipse cx="585" cy="347" rx="70" ry="19"/>
+    <ellipse cx="747" cy="340" rx="76" ry="21"/>
+    <ellipse cx="857" cy="332" rx="90" ry="21"/>
+    <ellipse cx="1021" cy="315" rx="95" ry="24"/>
+    <ellipse cx="1133" cy="304" rx="70" ry="19"/>
+    <ellipse cx="1223" cy="280" rx="61" ry="18"/>
+  </g>
+
+  <path d="M0 430C105 382 197 396 287 432C394 475 474 465 598 410C712 358 836 364 939 418C1054 479 1173 451 1280 398V640H0V430Z" fill="url(#mountainsBack)" opacity="0.92"/>
+  <path d="M0 476C103 432 187 451 287 510C386 568 501 558 616 474C700 413 804 414 906 487C1020 568 1130 544 1280 476V640H0V476Z" fill="url(#mountainsFront)"/>
+  <path d="M0 507C86 478 153 495 233 538C334 592 464 598 584 533C712 464 847 469 959 541C1052 601 1160 597 1280 522V640H0V507Z" fill="#2E6C39" opacity="0.82"/>
+
+  <path d="M0 474C217 523 445 532 640 516C837 500 1056 471 1280 497V640H0V474Z" fill="url(#water)"/>
+  <path d="M0 510C249 552 463 561 640 545C851 526 1034 500 1280 520" stroke="#D6F0FF" stroke-width="3" opacity="0.7"/>
+  <path d="M0 530C245 568 449 575 640 560C826 546 1049 520 1280 541" stroke="#9CDBFF" stroke-width="2" opacity="0.45"/>
+
+  <g opacity="0.94">
+    <path d="M0 452L63 420L81 640H0V452Z" fill="#59677A"/>
+    <path d="M0 469L92 442L146 640H0V469Z" fill="#47576B"/>
+    <path d="M14 497C44 472 86 485 121 518C88 537 47 549 17 551L14 497Z" fill="#3D9141"/>
+    <path d="M72 513C104 485 145 496 170 537C130 552 95 556 66 550L72 513Z" fill="#62AF42"/>
+    <path d="M95 473C120 444 162 444 194 470C167 490 138 505 100 506L95 473Z" fill="#528E38"/>
+    <g transform="translate(42 520)">
+      <g fill="#FFF8F1">
+        <circle cx="0" cy="0" r="11"/>
+        <circle cx="-13" cy="-4" r="10"/>
+        <circle cx="11" cy="-5" r="9"/>
+        <circle cx="-4" cy="-14" r="10"/>
+        <circle cx="6" cy="13" r="9"/>
+      </g>
+      <circle cx="0" cy="0" r="4.5" fill="#F2C94C"/>
+      <path d="M0 12V40" stroke="#3E8C3C" stroke-width="3"/>
+    </g>
+    <g transform="translate(74 549) scale(1.15)">
+      <g fill="#FFF8F1">
+        <circle cx="0" cy="0" r="11"/>
+        <circle cx="-13" cy="-4" r="10"/>
+        <circle cx="11" cy="-5" r="9"/>
+        <circle cx="-4" cy="-14" r="10"/>
+        <circle cx="6" cy="13" r="9"/>
+      </g>
+      <circle cx="0" cy="0" r="4.5" fill="#F2C94C"/>
+      <path d="M0 12V45" stroke="#3E8C3C" stroke-width="3"/>
+    </g>
+    <g transform="translate(111 581) scale(1.05)">
+      <g fill="#FFF8F1">
+        <circle cx="0" cy="0" r="11"/>
+        <circle cx="-13" cy="-4" r="10"/>
+        <circle cx="11" cy="-5" r="9"/>
+        <circle cx="-4" cy="-14" r="10"/>
+        <circle cx="6" cy="13" r="9"/>
+      </g>
+      <circle cx="0" cy="0" r="4.5" fill="#F2C94C"/>
+      <path d="M0 12V43" stroke="#3E8C3C" stroke-width="3"/>
+    </g>
+  </g>
+
+  <g fill="#FFF8EB" text-anchor="middle" filter="url(#shadow)">
+    <text x="640" y="162" font-size="54" font-family="'Snell Roundhand', 'Brush Script MT', 'Segoe Script', cursive" font-style="italic">
+      <tspan x="640" dy="0">This came about from the Lord.</tspan>
+      <tspan x="640" dy="82">It is marvelous in our eyes.</tspan>
+    </text>
+    <text x="640" y="292" font-size="36" font-family="Georgia, 'Times New Roman', serif" letter-spacing="1.5">
+      — PSALM 118:23 NASB —
+    </text>
+  </g>
+</svg>
