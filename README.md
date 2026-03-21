@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Psalm 118:23 banner over a bright blue sky, clouds, mountains, and a lake" width="100%" />
+  <img src="Lord's doing.png" alt="Psalm 118:23 banner over a bright blue sky, clouds, mountains, and a lake" width="100%" />
 </div>
 
 <h1 align="center">Hi, I am Nikhil Isaac.</h1>
