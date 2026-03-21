@@ -2,10 +2,10 @@
   <img src="assets/profile-banner.svg" alt="Psalm 118:23 banner over a bright blue sky, clouds, mountains, and a lake" width="100%" />
 </div>
 
-<h1 align="center">Nikhil Isaac Manohar</h1>
+<h1 align="center">Hi, I am Nikhil Isaac.</h1>
 
 <p align="center">
-  Software Engineer – Visualizations &amp; Data Science | Building ML dashboards, visual explainability tools | MS in Data Science @ University of Arizona
+  Data Visualization Expert building with faith, hope, love and gratitude.
 </p>
 
 <p align="center">
