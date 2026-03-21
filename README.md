@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nikhil-isaac">GitHub</a> ·
-  <a href="https://nikhilmanohar.com">nikhilmanohar.com</a>
+  <a href="https://nikhilmanohar.com">https://nikhilmanohar.com</a>
 </p>
 
 ## Pinned Repositories
