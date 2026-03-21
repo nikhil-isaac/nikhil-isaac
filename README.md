@@ -5,7 +5,9 @@
 <h1 align="center">Hi, I am Nikhil Isaac.</h1>
 
 <p align="center">
-  Data Visualization Expert building with faith, hope, love and gratitude.
+  I can do all things through Lord Jesus Christ who strengthens me. - Philippians 4:13
+
+
 </p>
 
 <p align="center">
